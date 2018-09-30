@@ -12,6 +12,2591 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-09-30T17:45:54.103-03:00
-  initializedAtString: 2018-09-30T17:41:45.474-03:00
-  entries: []
+  lastUpdatedAtString: 2018-09-30T18:10:46.107-03:00
+  initializedAtString: 2018-09-30T18:05:25.894-03:00
+  entries:
+  - path: Assembly-CSharp-Editor.csproj
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Assembly-CSharp-Editor.csproj
+    projectPath: Assembly-CSharp-Editor.csproj
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Scenes\SampleScene.unity
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Assets\Scenes\SampleScene.unity
+    projectPath: Assets\Scenes\SampleScene.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\assetDatabase3
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\CrashedAssetImports.txt
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Library\CrashedAssetImports.txt
+    projectPath: Library\CrashedAssetImports.txt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\EditorInstance.json
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\EditorUserBuildSettings.asset
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Library\EditorUserBuildSettings.asset
+    projectPath: Library\EditorUserBuildSettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\LastBuild.buildreport
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Library\LastBuild.buildreport
+    projectPath: Library\LastBuild.buildreport
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\PlayerDataCache\Android\Data\globalgamemanagers
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Library\PlayerDataCache\Android\Data\globalgamemanagers
+    projectPath: Library\PlayerDataCache\Android\Data\globalgamemanagers
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\PlayerDataCache\Android\Data\globalgamemanagers.assets
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Library\PlayerDataCache\Android\Data\globalgamemanagers.assets
+    projectPath: Library\PlayerDataCache\Android\Data\globalgamemanagers.assets
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\PlayerDataCache\Android\Data\level0
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Library\PlayerDataCache\Android\Data\level0
+    projectPath: Library\PlayerDataCache\Android\Data\level0
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\PlayerDataCache\Android\Data\Managed\Assembly-CSharp.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Library\PlayerDataCache\Android\Data\Managed\Assembly-CSharp.dll
+    projectPath: Library\PlayerDataCache\Android\Data\Managed\Assembly-CSharp.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\PlayerDataCache\Android\Data\sharedassets0.assets
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Library\PlayerDataCache\Android\Data\sharedassets0.assets
+    projectPath: Library\PlayerDataCache\Android\Data\sharedassets0.assets
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\PlayerDataCache\Android\ScriptLayoutHashes.txt
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Library\PlayerDataCache\Android\ScriptLayoutHashes.txt
+    projectPath: Library\PlayerDataCache\Android\ScriptLayoutHashes.txt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ShaderCache\1\13eed69e0ced08c762f287f29720a91a.bin
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Library\ShaderCache\1\13eed69e0ced08c762f287f29720a91a.bin
+    projectPath: Library\ShaderCache\1\13eed69e0ced08c762f287f29720a91a.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\9\92c51790ca71312514590feaeee95c98.bin
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Library\ShaderCache\9\92c51790ca71312514590feaeee95c98.bin
+    projectPath: Library\ShaderCache\9\92c51790ca71312514590feaeee95c98.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\9\9c77a966229ca55d4fe12fb5015df5fc.bin
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Library\ShaderCache\9\9c77a966229ca55d4fe12fb5015df5fc.bin
+    projectPath: Library\ShaderCache\9\9c77a966229ca55d4fe12fb5015df5fc.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\d\d780e50b22c94bac588acbffce58da7a.bin
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Library\ShaderCache\d\d780e50b22c94bac588acbffce58da7a.bin
+    projectPath: Library\ShaderCache\d\d780e50b22c94bac588acbffce58da7a.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\shadercompiler-UnityShaderCompiler.exe3.log
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Library\shadercompiler-UnityShaderCompiler.exe3.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: princhecha2.apk
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\princhecha2.apk
+    projectPath: princhecha2.apk
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\__Backupscenes\0.backup
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\.gradle\4.2.1\fileChanges\last-build.bin
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\.gradle\4.2.1\fileChanges\last-build.bin
+    projectPath: Temp\gradleOut\.gradle\4.2.1\fileChanges\last-build.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\.gradle\4.2.1\fileContent\fileContent.lock
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\.gradle\4.2.1\fileContent\fileContent.lock
+    projectPath: Temp\gradleOut\.gradle\4.2.1\fileContent\fileContent.lock
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\.gradle\4.2.1\fileHashes\fileHashes.bin
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\.gradle\4.2.1\fileHashes\fileHashes.bin
+    projectPath: Temp\gradleOut\.gradle\4.2.1\fileHashes\fileHashes.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\.gradle\4.2.1\fileHashes\fileHashes.lock
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\.gradle\4.2.1\fileHashes\fileHashes.lock
+    projectPath: Temp\gradleOut\.gradle\4.2.1\fileHashes\fileHashes.lock
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\.gradle\4.2.1\fileHashes\resourceHashesCache.bin
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\.gradle\4.2.1\fileHashes\resourceHashesCache.bin
+    projectPath: Temp\gradleOut\.gradle\4.2.1\fileHashes\resourceHashesCache.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\.gradle\4.2.1\javaCompile\classAnalysis.bin
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\.gradle\4.2.1\javaCompile\classAnalysis.bin
+    projectPath: Temp\gradleOut\.gradle\4.2.1\javaCompile\classAnalysis.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\.gradle\4.2.1\javaCompile\jarAnalysis.bin
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\.gradle\4.2.1\javaCompile\jarAnalysis.bin
+    projectPath: Temp\gradleOut\.gradle\4.2.1\javaCompile\jarAnalysis.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\.gradle\4.2.1\javaCompile\javaCompile.lock
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\.gradle\4.2.1\javaCompile\javaCompile.lock
+    projectPath: Temp\gradleOut\.gradle\4.2.1\javaCompile\javaCompile.lock
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\.gradle\4.2.1\javaCompile\taskHistory.bin
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\.gradle\4.2.1\javaCompile\taskHistory.bin
+    projectPath: Temp\gradleOut\.gradle\4.2.1\javaCompile\taskHistory.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\.gradle\4.2.1\javaCompile\taskJars.bin
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\.gradle\4.2.1\javaCompile\taskJars.bin
+    projectPath: Temp\gradleOut\.gradle\4.2.1\javaCompile\taskJars.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\.gradle\4.2.1\taskHistory\fileSnapshots.bin
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\.gradle\4.2.1\taskHistory\fileSnapshots.bin
+    projectPath: Temp\gradleOut\.gradle\4.2.1\taskHistory\fileSnapshots.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\.gradle\4.2.1\taskHistory\taskHistory.bin
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\.gradle\4.2.1\taskHistory\taskHistory.bin
+    projectPath: Temp\gradleOut\.gradle\4.2.1\taskHistory\taskHistory.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\.gradle\4.2.1\taskHistory\taskHistory.lock
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\.gradle\4.2.1\taskHistory\taskHistory.lock
+    projectPath: Temp\gradleOut\.gradle\4.2.1\taskHistory\taskHistory.lock
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\.gradle\buildOutputCleanup\buildOutputCleanup.lock
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\.gradle\buildOutputCleanup\buildOutputCleanup.lock
+    projectPath: Temp\gradleOut\.gradle\buildOutputCleanup\buildOutputCleanup.lock
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\.gradle\buildOutputCleanup\cache.properties
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\.gradle\buildOutputCleanup\cache.properties
+    projectPath: Temp\gradleOut\.gradle\buildOutputCleanup\cache.properties
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\.gradle\buildOutputCleanup\outputFiles.bin
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\.gradle\buildOutputCleanup\outputFiles.bin
+    projectPath: Temp\gradleOut\.gradle\buildOutputCleanup\outputFiles.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build.gradle
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build.gradle
+    projectPath: Temp\gradleOut\build.gradle
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\android-profile\profile-2018-09-30-18-07-25-785.json
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\android-profile\profile-2018-09-30-18-07-25-785.json
+    projectPath: Temp\gradleOut\build\android-profile\profile-2018-09-30-18-07-25-785.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\android-profile\profile-2018-09-30-18-07-25-785.rawproto
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\android-profile\profile-2018-09-30-18-07-25-785.rawproto
+    projectPath: Temp\gradleOut\build\android-profile\profile-2018-09-30-18-07-25-785.rawproto
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\generated\source\buildConfig\release\com\MyCompany\Princhecha\BuildConfig.java
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\generated\source\buildConfig\release\com\MyCompany\Princhecha\BuildConfig.java
+    projectPath: Temp\gradleOut\build\generated\source\buildConfig\release\com\MyCompany\Princhecha\BuildConfig.java
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\generated\source\r\release\com\MyCompany\Princhecha\R.java
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\generated\source\r\release\com\MyCompany\Princhecha\R.java
+    projectPath: Temp\gradleOut\build\generated\source\r\release\com\MyCompany\Princhecha\R.java
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\generated\source\r\release\com\vuforia\engine\ext\R.java
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\generated\source\r\release\com\vuforia\engine\ext\R.java
+    projectPath: Temp\gradleOut\build\generated\source\r\release\com\vuforia\engine\ext\R.java
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\6e6b3e2178258624eb46adcdf10798c7
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\6e6b3e2178258624eb46adcdf10798c7
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\6e6b3e2178258624eb46adcdf10798c7
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\boot.config
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\boot.config
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\boot.config
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\globalgamemanagers
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\globalgamemanagers
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\globalgamemanagers
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\globalgamemanagers.assets
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\globalgamemanagers.assets
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\globalgamemanagers.assets
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\level0
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\level0
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\level0
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\Assembly-CSharp.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\Assembly-CSharp.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\Assembly-CSharp.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\Mono.Security.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\Mono.Security.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\Mono.Security.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\mscorlib.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\mscorlib.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\mscorlib.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\System.Core.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\System.Core.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\System.Core.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\System.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\System.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\System.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\Unity.TextMeshPro.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\Unity.TextMeshPro.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\Unity.TextMeshPro.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.AccessibilityModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.AccessibilityModule.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.AccessibilityModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.AIModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.AIModule.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.AIModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.Analytics.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.Analytics.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.Analytics.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.AnimationModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.AnimationModule.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.AnimationModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.ARModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.ARModule.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.ARModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.AssetBundleModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.AssetBundleModule.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.AssetBundleModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.AudioModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.AudioModule.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.AudioModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.BaselibModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.BaselibModule.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.BaselibModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.ClothModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.ClothModule.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.ClothModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.CloudWebServicesModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.CloudWebServicesModule.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.CloudWebServicesModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.CoreModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.CoreModule.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.CoreModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.CrashReportingModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.CrashReportingModule.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.CrashReportingModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.DirectorModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.DirectorModule.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.DirectorModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.FacebookModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.FacebookModule.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.FacebookModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.FileSystemHttpModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.FileSystemHttpModule.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.FileSystemHttpModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.GameCenterModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.GameCenterModule.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.GameCenterModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.GridModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.GridModule.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.GridModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.HotReloadModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.HotReloadModule.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.HotReloadModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.ImageConversionModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.ImageConversionModule.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.ImageConversionModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.IMGUIModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.IMGUIModule.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.IMGUIModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.InputModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.InputModule.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.InputModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.JSONSerializeModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.JSONSerializeModule.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.JSONSerializeModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.LocalizationModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.LocalizationModule.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.LocalizationModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.Networking.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.Networking.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.Networking.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.ParticlesLegacyModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.ParticlesLegacyModule.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.ParticlesLegacyModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.ParticleSystemModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.ParticleSystemModule.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.ParticleSystemModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.PerformanceReportingModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.PerformanceReportingModule.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.PerformanceReportingModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.Physics2DModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.Physics2DModule.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.Physics2DModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.PhysicsModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.PhysicsModule.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.PhysicsModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.ProfilerModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.ProfilerModule.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.ProfilerModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.ScreenCaptureModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.ScreenCaptureModule.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.ScreenCaptureModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.SharedInternalsModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.SharedInternalsModule.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.SharedInternalsModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.SpatialTracking.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.SpatialTracking.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.SpatialTracking.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.SpatialTrackingModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.SpatialTrackingModule.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.SpatialTrackingModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.SpriteMaskModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.SpriteMaskModule.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.SpriteMaskModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.SpriteShapeModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.SpriteShapeModule.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.SpriteShapeModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.StandardEvents.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.StandardEvents.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.StandardEvents.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.StreamingModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.StreamingModule.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.StreamingModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.StyleSheetsModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.StyleSheetsModule.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.StyleSheetsModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.SubstanceModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.SubstanceModule.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.SubstanceModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.TerrainModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.TerrainModule.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.TerrainModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.TextRenderingModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.TextRenderingModule.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.TextRenderingModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.TilemapModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.TilemapModule.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.TilemapModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.Timeline.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.Timeline.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.Timeline.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.TimelineModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.TimelineModule.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.TimelineModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.TLSModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.TLSModule.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.TLSModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.UI.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.UI.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.UI.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.UIElementsModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.UIElementsModule.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.UIElementsModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.UIModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.UIModule.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.UIModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.UmbraModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.UmbraModule.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.UmbraModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.UNETModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.UNETModule.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.UNETModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.UnityConnectModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.UnityConnectModule.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.UnityConnectModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.UnityWebRequestModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.UnityWebRequestModule.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.UnityWebRequestModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.VehiclesModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.VehiclesModule.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.VehiclesModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.VideoModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.VideoModule.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.VideoModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.VRModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.VRModule.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.VRModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.WindModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.WindModule.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.WindModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.XRModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.XRModule.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\UnityEngine.XRModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\Vuforia.UnityExtensions.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\Vuforia.UnityExtensions.dll
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Managed\Vuforia.UnityExtensions.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Resources\unity_builtin_extra
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\Resources\unity_builtin_extra
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\Resources\unity_builtin_extra
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\sharedassets0.assets
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\sharedassets0.assets
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\sharedassets0.assets
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\assets\release\bin\Data\unity default
+      resources
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\assets\release\bin\Data\unity
+      default resources
+    projectPath: Temp\gradleOut\build\intermediates\assets\release\bin\Data\unity
+      default resources
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\blame\res\release\multi-v2\release.json
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\blame\res\release\multi-v2\release.json
+    projectPath: Temp\gradleOut\build\intermediates\blame\res\release\multi-v2\release.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\blame\res\release\multi-v2\values.json
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\blame\res\release\multi-v2\values.json
+    projectPath: Temp\gradleOut\build\intermediates\blame\res\release\multi-v2\values.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\blame\res\release\multi-v2\values-v21.json
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\blame\res\release\multi-v2\values-v21.json
+    projectPath: Temp\gradleOut\build\intermediates\blame\res\release\multi-v2\values-v21.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\blame\res\release\single\release.json
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\blame\res\release\single\release.json
+    projectPath: Temp\gradleOut\build\intermediates\blame\res\release\single\release.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\classes\release\com\MyCompany\Princhecha\BuildConfig.class
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\classes\release\com\MyCompany\Princhecha\BuildConfig.class
+    projectPath: Temp\gradleOut\build\intermediates\classes\release\com\MyCompany\Princhecha\BuildConfig.class
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\classes\release\com\MyCompany\Princhecha\R$drawable.class
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\classes\release\com\MyCompany\Princhecha\R$drawable.class
+    projectPath: Temp\gradleOut\build\intermediates\classes\release\com\MyCompany\Princhecha\R$drawable.class
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\classes\release\com\MyCompany\Princhecha\R$mipmap.class
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\classes\release\com\MyCompany\Princhecha\R$mipmap.class
+    projectPath: Temp\gradleOut\build\intermediates\classes\release\com\MyCompany\Princhecha\R$mipmap.class
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\classes\release\com\MyCompany\Princhecha\R$string.class
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\classes\release\com\MyCompany\Princhecha\R$string.class
+    projectPath: Temp\gradleOut\build\intermediates\classes\release\com\MyCompany\Princhecha\R$string.class
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\classes\release\com\MyCompany\Princhecha\R$style.class
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\classes\release\com\MyCompany\Princhecha\R$style.class
+    projectPath: Temp\gradleOut\build\intermediates\classes\release\com\MyCompany\Princhecha\R$style.class
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\classes\release\com\MyCompany\Princhecha\R.class
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\classes\release\com\MyCompany\Princhecha\R.class
+    projectPath: Temp\gradleOut\build\intermediates\classes\release\com\MyCompany\Princhecha\R.class
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\classes\release\com\vuforia\engine\ext\R.class
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\classes\release\com\vuforia\engine\ext\R.class
+    projectPath: Temp\gradleOut\build\intermediates\classes\release\com\vuforia\engine\ext\R.class
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\incremental\compileReleaseAidl\dependency.store
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\incremental\compileReleaseAidl\dependency.store
+    projectPath: Temp\gradleOut\build\intermediates\incremental\compileReleaseAidl\dependency.store
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\incremental\mergeReleaseAssets\merger.xml
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\incremental\mergeReleaseAssets\merger.xml
+    projectPath: Temp\gradleOut\build\intermediates\incremental\mergeReleaseAssets\merger.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\incremental\mergeReleaseJniLibFolders\merger.xml
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\incremental\mergeReleaseJniLibFolders\merger.xml
+    projectPath: Temp\gradleOut\build\intermediates\incremental\mergeReleaseJniLibFolders\merger.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\incremental\mergeReleaseResources\compile-file-map.properties
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\incremental\mergeReleaseResources\compile-file-map.properties
+    projectPath: Temp\gradleOut\build\intermediates\incremental\mergeReleaseResources\compile-file-map.properties
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\incremental\mergeReleaseResources\merged.dir\values\values.xml
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\incremental\mergeReleaseResources\merged.dir\values\values.xml
+    projectPath: Temp\gradleOut\build\intermediates\incremental\mergeReleaseResources\merged.dir\values\values.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\incremental\mergeReleaseResources\merged.dir\values-v21\values-v21.xml
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\incremental\mergeReleaseResources\merged.dir\values-v21\values-v21.xml
+    projectPath: Temp\gradleOut\build\intermediates\incremental\mergeReleaseResources\merged.dir\values-v21\values-v21.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\incremental\mergeReleaseResources\merger.xml
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\incremental\mergeReleaseResources\merger.xml
+    projectPath: Temp\gradleOut\build\intermediates\incremental\mergeReleaseResources\merger.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\incremental\mergeReleaseShaders\merger.xml
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\incremental\mergeReleaseShaders\merger.xml
+    projectPath: Temp\gradleOut\build\intermediates\incremental\mergeReleaseShaders\merger.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\incremental\packageRelease\release\dex-renamer-state.txt
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\incremental\packageRelease\release\dex-renamer-state.txt
+    projectPath: Temp\gradleOut\build\intermediates\incremental\packageRelease\release\dex-renamer-state.txt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\incremental\packageRelease\release\file-input-save-data.txt
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\incremental\packageRelease\release\file-input-save-data.txt
+    projectPath: Temp\gradleOut\build\intermediates\incremental\packageRelease\release\file-input-save-data.txt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\incremental\packageRelease\release\zip-cache\ZyGdQRXUwXofAdG0RsMeGuWA+q4=
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\incremental\packageRelease\release\zip-cache\ZyGdQRXUwXofAdG0RsMeGuWA+q4=
+    projectPath: Temp\gradleOut\build\intermediates\incremental\packageRelease\release\zip-cache\ZyGdQRXUwXofAdG0RsMeGuWA+q4=
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\incremental\release-mergeJavaRes\merge-state
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\incremental\release-mergeJavaRes\merge-state
+    projectPath: Temp\gradleOut\build\intermediates\incremental\release-mergeJavaRes\merge-state
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\incremental\release-mergeJavaRes\zip-cache\8RQn1tkMIr4KNUWO9wGozShQqFQ=
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\incremental\release-mergeJavaRes\zip-cache\8RQn1tkMIr4KNUWO9wGozShQqFQ=
+    projectPath: Temp\gradleOut\build\intermediates\incremental\release-mergeJavaRes\zip-cache\8RQn1tkMIr4KNUWO9wGozShQqFQ=
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\incremental\release-mergeJavaRes\zip-cache\HTZZbU3BcNAyiEn2BB6Bj2KFJhs=
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\incremental\release-mergeJavaRes\zip-cache\HTZZbU3BcNAyiEn2BB6Bj2KFJhs=
+    projectPath: Temp\gradleOut\build\intermediates\incremental\release-mergeJavaRes\zip-cache\HTZZbU3BcNAyiEn2BB6Bj2KFJhs=
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\incremental\release-mergeJavaRes\zip-cache\u6OsIifBRprmD3a6r4H5F8X9_Rs=
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\incremental\release-mergeJavaRes\zip-cache\u6OsIifBRprmD3a6r4H5F8X9_Rs=
+    projectPath: Temp\gradleOut\build\intermediates\incremental\release-mergeJavaRes\zip-cache\u6OsIifBRprmD3a6r4H5F8X9_Rs=
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\incremental\release-mergeJavaRes\zip-cache\zZJ4wXTRHEff1zt5Hq_p3P_Bvzs=
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\incremental\release-mergeJavaRes\zip-cache\zZJ4wXTRHEff1zt5Hq_p3P_Bvzs=
+    projectPath: Temp\gradleOut\build\intermediates\incremental\release-mergeJavaRes\zip-cache\zZJ4wXTRHEff1zt5Hq_p3P_Bvzs=
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\incremental\release-mergeJniLibs\merge-state
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\incremental\release-mergeJniLibs\merge-state
+    projectPath: Temp\gradleOut\build\intermediates\incremental\release-mergeJniLibs\merge-state
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\incremental\release-mergeJniLibs\zip-cache\8RQn1tkMIr4KNUWO9wGozShQqFQ=
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\incremental\release-mergeJniLibs\zip-cache\8RQn1tkMIr4KNUWO9wGozShQqFQ=
+    projectPath: Temp\gradleOut\build\intermediates\incremental\release-mergeJniLibs\zip-cache\8RQn1tkMIr4KNUWO9wGozShQqFQ=
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\incremental\release-mergeJniLibs\zip-cache\HTZZbU3BcNAyiEn2BB6Bj2KFJhs=
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\incremental\release-mergeJniLibs\zip-cache\HTZZbU3BcNAyiEn2BB6Bj2KFJhs=
+    projectPath: Temp\gradleOut\build\intermediates\incremental\release-mergeJniLibs\zip-cache\HTZZbU3BcNAyiEn2BB6Bj2KFJhs=
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\incremental\release-mergeJniLibs\zip-cache\u6OsIifBRprmD3a6r4H5F8X9_Rs=
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\incremental\release-mergeJniLibs\zip-cache\u6OsIifBRprmD3a6r4H5F8X9_Rs=
+    projectPath: Temp\gradleOut\build\intermediates\incremental\release-mergeJniLibs\zip-cache\u6OsIifBRprmD3a6r4H5F8X9_Rs=
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\incremental\release-mergeJniLibs\zip-cache\zZJ4wXTRHEff1zt5Hq_p3P_Bvzs=
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\incremental\release-mergeJniLibs\zip-cache\zZJ4wXTRHEff1zt5Hq_p3P_Bvzs=
+    projectPath: Temp\gradleOut\build\intermediates\incremental\release-mergeJniLibs\zip-cache\zZJ4wXTRHEff1zt5Hq_p3P_Bvzs=
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\javaPrecompile\release\annotationProcessors.json
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\javaPrecompile\release\annotationProcessors.json
+    projectPath: Temp\gradleOut\build\intermediates\javaPrecompile\release\annotationProcessors.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\jniLibs\release\armeabi-v7a\libmain.so
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\jniLibs\release\armeabi-v7a\libmain.so
+    projectPath: Temp\gradleOut\build\intermediates\jniLibs\release\armeabi-v7a\libmain.so
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\jniLibs\release\armeabi-v7a\libmono.so
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\jniLibs\release\armeabi-v7a\libmono.so
+    projectPath: Temp\gradleOut\build\intermediates\jniLibs\release\armeabi-v7a\libmono.so
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\jniLibs\release\armeabi-v7a\libunity.so
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\jniLibs\release\armeabi-v7a\libunity.so
+    projectPath: Temp\gradleOut\build\intermediates\jniLibs\release\armeabi-v7a\libunity.so
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\jniLibs\release\x86\libmain.so
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\jniLibs\release\x86\libmain.so
+    projectPath: Temp\gradleOut\build\intermediates\jniLibs\release\x86\libmain.so
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\jniLibs\release\x86\libmono.so
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\jniLibs\release\x86\libmono.so
+    projectPath: Temp\gradleOut\build\intermediates\jniLibs\release\x86\libmono.so
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\jniLibs\release\x86\libunity.so
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\jniLibs\release\x86\libunity.so
+    projectPath: Temp\gradleOut\build\intermediates\jniLibs\release\x86\libunity.so
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\lint-cache\maven.google\com\android\tools\build\group-index.xml
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\lint-cache\maven.google\com\android\tools\build\group-index.xml
+    projectPath: Temp\gradleOut\build\intermediates\lint-cache\maven.google\com\android\tools\build\group-index.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\lint-cache\maven.google\master-index.xml
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\lint-cache\maven.google\master-index.xml
+    projectPath: Temp\gradleOut\build\intermediates\lint-cache\maven.google\master-index.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\manifests\density\release\output.json
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\manifests\density\release\output.json
+    projectPath: Temp\gradleOut\build\intermediates\manifests\density\release\output.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\manifests\full\release\AndroidManifest.xml
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\manifests\full\release\AndroidManifest.xml
+    projectPath: Temp\gradleOut\build\intermediates\manifests\full\release\AndroidManifest.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\manifests\full\release\output.json
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\manifests\full\release\output.json
+    projectPath: Temp\gradleOut\build\intermediates\manifests\full\release\output.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\manifests\instant-run\release\output.json
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\manifests\instant-run\release\output.json
+    projectPath: Temp\gradleOut\build\intermediates\manifests\instant-run\release\output.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\res\merged\release\drawable-xhdpi_app_banner.png.flat
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\res\merged\release\drawable-xhdpi_app_banner.png.flat
+    projectPath: Temp\gradleOut\build\intermediates\res\merged\release\drawable-xhdpi_app_banner.png.flat
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\res\merged\release\mipmap-anydpi-v26_app_icon.xml.flat
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\res\merged\release\mipmap-anydpi-v26_app_icon.xml.flat
+    projectPath: Temp\gradleOut\build\intermediates\res\merged\release\mipmap-anydpi-v26_app_icon.xml.flat
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\res\merged\release\mipmap-anydpi-v26_app_icon_round.xml.flat
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\res\merged\release\mipmap-anydpi-v26_app_icon_round.xml.flat
+    projectPath: Temp\gradleOut\build\intermediates\res\merged\release\mipmap-anydpi-v26_app_icon_round.xml.flat
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\res\merged\release\mipmap-mdpi_app_icon.png.flat
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\res\merged\release\mipmap-mdpi_app_icon.png.flat
+    projectPath: Temp\gradleOut\build\intermediates\res\merged\release\mipmap-mdpi_app_icon.png.flat
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\res\merged\release\mipmap-mdpi_ic_launcher_background.png.flat
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\res\merged\release\mipmap-mdpi_ic_launcher_background.png.flat
+    projectPath: Temp\gradleOut\build\intermediates\res\merged\release\mipmap-mdpi_ic_launcher_background.png.flat
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\res\merged\release\mipmap-mdpi_ic_launcher_foreground.png.flat
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\res\merged\release\mipmap-mdpi_ic_launcher_foreground.png.flat
+    projectPath: Temp\gradleOut\build\intermediates\res\merged\release\mipmap-mdpi_ic_launcher_foreground.png.flat
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\res\merged\release\values_values.arsc.flat
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\res\merged\release\values_values.arsc.flat
+    projectPath: Temp\gradleOut\build\intermediates\res\merged\release\values_values.arsc.flat
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\res\merged\release\values-v21_values-v21.arsc.flat
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\res\merged\release\values-v21_values-v21.arsc.flat
+    projectPath: Temp\gradleOut\build\intermediates\res\merged\release\values-v21_values-v21.arsc.flat
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\res\release\output.json
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\res\release\output.json
+    projectPath: Temp\gradleOut\build\intermediates\res\release\output.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\res\release\resources-release.ap_
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\res\release\resources-release.ap_
+    projectPath: Temp\gradleOut\build\intermediates\res\release\resources-release.ap_
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\res\symbol-table-with-package\release\package-aware-r.txt
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\res\symbol-table-with-package\release\package-aware-r.txt
+    projectPath: Temp\gradleOut\build\intermediates\res\symbol-table-with-package\release\package-aware-r.txt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\splits-support\release\split-list.gson
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\splits-support\release\split-list.gson
+    projectPath: Temp\gradleOut\build\intermediates\splits-support\release\split-list.gson
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\symbols\release\R.txt
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\symbols\release\R.txt
+    projectPath: Temp\gradleOut\build\intermediates\symbols\release\R.txt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\transforms\dex\release\__content__.json
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\transforms\dex\release\__content__.json
+    projectPath: Temp\gradleOut\build\intermediates\transforms\dex\release\__content__.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\transforms\dex\release\0\classes.dex
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\transforms\dex\release\0\classes.dex
+    projectPath: Temp\gradleOut\build\intermediates\transforms\dex\release\0\classes.dex
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\transforms\mergeJavaRes\release\__content__.json
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\transforms\mergeJavaRes\release\__content__.json
+    projectPath: Temp\gradleOut\build\intermediates\transforms\mergeJavaRes\release\__content__.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\transforms\mergeJavaRes\release\0.jar
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\transforms\mergeJavaRes\release\0.jar
+    projectPath: Temp\gradleOut\build\intermediates\transforms\mergeJavaRes\release\0.jar
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\transforms\mergeJniLibs\release\__content__.json
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\transforms\mergeJniLibs\release\__content__.json
+    projectPath: Temp\gradleOut\build\intermediates\transforms\mergeJniLibs\release\__content__.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\transforms\mergeJniLibs\release\0\lib\armeabi-v7a\libmain.so
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\transforms\mergeJniLibs\release\0\lib\armeabi-v7a\libmain.so
+    projectPath: Temp\gradleOut\build\intermediates\transforms\mergeJniLibs\release\0\lib\armeabi-v7a\libmain.so
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\transforms\mergeJniLibs\release\0\lib\armeabi-v7a\libmono.so
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\transforms\mergeJniLibs\release\0\lib\armeabi-v7a\libmono.so
+    projectPath: Temp\gradleOut\build\intermediates\transforms\mergeJniLibs\release\0\lib\armeabi-v7a\libmono.so
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\transforms\mergeJniLibs\release\0\lib\armeabi-v7a\libunity.so
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\transforms\mergeJniLibs\release\0\lib\armeabi-v7a\libunity.so
+    projectPath: Temp\gradleOut\build\intermediates\transforms\mergeJniLibs\release\0\lib\armeabi-v7a\libunity.so
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\transforms\mergeJniLibs\release\0\lib\armeabi-v7a\libVuforia.so
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\transforms\mergeJniLibs\release\0\lib\armeabi-v7a\libVuforia.so
+    projectPath: Temp\gradleOut\build\intermediates\transforms\mergeJniLibs\release\0\lib\armeabi-v7a\libVuforia.so
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\transforms\mergeJniLibs\release\0\lib\armeabi-v7a\libVuforiaUnityPlayer.so
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\transforms\mergeJniLibs\release\0\lib\armeabi-v7a\libVuforiaUnityPlayer.so
+    projectPath: Temp\gradleOut\build\intermediates\transforms\mergeJniLibs\release\0\lib\armeabi-v7a\libVuforiaUnityPlayer.so
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\transforms\mergeJniLibs\release\0\lib\armeabi-v7a\libVuforiaWrapper.so
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\transforms\mergeJniLibs\release\0\lib\armeabi-v7a\libVuforiaWrapper.so
+    projectPath: Temp\gradleOut\build\intermediates\transforms\mergeJniLibs\release\0\lib\armeabi-v7a\libVuforiaWrapper.so
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\transforms\mergeJniLibs\release\0\lib\x86\libmain.so
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\transforms\mergeJniLibs\release\0\lib\x86\libmain.so
+    projectPath: Temp\gradleOut\build\intermediates\transforms\mergeJniLibs\release\0\lib\x86\libmain.so
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\transforms\mergeJniLibs\release\0\lib\x86\libmono.so
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\transforms\mergeJniLibs\release\0\lib\x86\libmono.so
+    projectPath: Temp\gradleOut\build\intermediates\transforms\mergeJniLibs\release\0\lib\x86\libmono.so
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\transforms\mergeJniLibs\release\0\lib\x86\libunity.so
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\transforms\mergeJniLibs\release\0\lib\x86\libunity.so
+    projectPath: Temp\gradleOut\build\intermediates\transforms\mergeJniLibs\release\0\lib\x86\libunity.so
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\transforms\mergeJniLibs\release\0\lib\x86\libVuforia.so
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\transforms\mergeJniLibs\release\0\lib\x86\libVuforia.so
+    projectPath: Temp\gradleOut\build\intermediates\transforms\mergeJniLibs\release\0\lib\x86\libVuforia.so
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\transforms\mergeJniLibs\release\0\lib\x86\libVuforiaUnityPlayer.so
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\transforms\mergeJniLibs\release\0\lib\x86\libVuforiaUnityPlayer.so
+    projectPath: Temp\gradleOut\build\intermediates\transforms\mergeJniLibs\release\0\lib\x86\libVuforiaUnityPlayer.so
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\transforms\mergeJniLibs\release\0\lib\x86\libVuforiaWrapper.so
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\transforms\mergeJniLibs\release\0\lib\x86\libVuforiaWrapper.so
+    projectPath: Temp\gradleOut\build\intermediates\transforms\mergeJniLibs\release\0\lib\x86\libVuforiaWrapper.so
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\transforms\preDex\release\__content__.json
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\transforms\preDex\release\__content__.json
+    projectPath: Temp\gradleOut\build\intermediates\transforms\preDex\release\__content__.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\transforms\preDex\release\0.jar
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\transforms\preDex\release\0.jar
+    projectPath: Temp\gradleOut\build\intermediates\transforms\preDex\release\0.jar
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\transforms\preDex\release\1.jar
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\transforms\preDex\release\1.jar
+    projectPath: Temp\gradleOut\build\intermediates\transforms\preDex\release\1.jar
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\transforms\preDex\release\2.jar
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\transforms\preDex\release\2.jar
+    projectPath: Temp\gradleOut\build\intermediates\transforms\preDex\release\2.jar
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\transforms\preDex\release\3.jar
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\transforms\preDex\release\3.jar
+    projectPath: Temp\gradleOut\build\intermediates\transforms\preDex\release\3.jar
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\intermediates\transforms\preDex\release\4.jar
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\intermediates\transforms\preDex\release\4.jar
+    projectPath: Temp\gradleOut\build\intermediates\transforms\preDex\release\4.jar
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\outputs\apk\release\output.json
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\outputs\apk\release\output.json
+    projectPath: Temp\gradleOut\build\outputs\apk\release\output.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\outputs\logs\manifest-merger-release-report.txt
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\outputs\logs\manifest-merger-release-report.txt
+    projectPath: Temp\gradleOut\build\outputs\logs\manifest-merger-release-report.txt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\reports\lint-results-release-fatal.html
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\reports\lint-results-release-fatal.html
+    projectPath: Temp\gradleOut\build\reports\lint-results-release-fatal.html
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\build\reports\lint-results-release-fatal.xml
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\build\reports\lint-results-release-fatal.xml
+    projectPath: Temp\gradleOut\build\reports\lint-results-release-fatal.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\gradle.properties
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\gradle.properties
+    projectPath: Temp\gradleOut\gradle.properties
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\libs\unity-classes.jar
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\libs\unity-classes.jar
+    projectPath: Temp\gradleOut\libs\unity-classes.jar
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\libs\VuforiaWrapper.aar
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\libs\VuforiaWrapper.aar
+    projectPath: Temp\gradleOut\libs\VuforiaWrapper.aar
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\local.properties
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\local.properties
+    projectPath: Temp\gradleOut\local.properties
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\proguard-unity.txt
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\proguard-unity.txt
+    projectPath: Temp\gradleOut\proguard-unity.txt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\AndroidManifest.xml
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\AndroidManifest.xml
+    projectPath: Temp\gradleOut\src\main\AndroidManifest.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\6e6b3e2178258624eb46adcdf10798c7
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\6e6b3e2178258624eb46adcdf10798c7
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\6e6b3e2178258624eb46adcdf10798c7
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\boot.config
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\boot.config
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\boot.config
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\globalgamemanagers
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\globalgamemanagers
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\globalgamemanagers
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\globalgamemanagers.assets
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\globalgamemanagers.assets
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\globalgamemanagers.assets
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\level0
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\level0
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\level0
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\Assembly-CSharp.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\Assembly-CSharp.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\Assembly-CSharp.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\Mono.Security.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\Mono.Security.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\Mono.Security.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\mscorlib.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\mscorlib.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\mscorlib.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\System.Core.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\System.Core.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\System.Core.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\System.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\System.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\System.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\Unity.TextMeshPro.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\Unity.TextMeshPro.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\Unity.TextMeshPro.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.AccessibilityModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.AccessibilityModule.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.AccessibilityModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.AIModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.AIModule.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.AIModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.Analytics.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.Analytics.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.Analytics.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.AnimationModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.AnimationModule.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.AnimationModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.ARModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.ARModule.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.ARModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.AssetBundleModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.AssetBundleModule.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.AssetBundleModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.AudioModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.AudioModule.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.AudioModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.BaselibModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.BaselibModule.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.BaselibModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.ClothModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.ClothModule.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.ClothModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.CloudWebServicesModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.CloudWebServicesModule.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.CloudWebServicesModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.CoreModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.CoreModule.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.CoreModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.CrashReportingModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.CrashReportingModule.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.CrashReportingModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.DirectorModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.DirectorModule.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.DirectorModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.FacebookModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.FacebookModule.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.FacebookModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.FileSystemHttpModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.FileSystemHttpModule.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.FileSystemHttpModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.GameCenterModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.GameCenterModule.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.GameCenterModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.GridModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.GridModule.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.GridModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.HotReloadModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.HotReloadModule.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.HotReloadModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.ImageConversionModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.ImageConversionModule.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.ImageConversionModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.IMGUIModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.IMGUIModule.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.IMGUIModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.InputModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.InputModule.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.InputModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.JSONSerializeModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.JSONSerializeModule.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.JSONSerializeModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.LocalizationModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.LocalizationModule.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.LocalizationModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.Networking.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.Networking.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.Networking.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.ParticlesLegacyModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.ParticlesLegacyModule.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.ParticlesLegacyModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.ParticleSystemModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.ParticleSystemModule.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.ParticleSystemModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.PerformanceReportingModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.PerformanceReportingModule.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.PerformanceReportingModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.Physics2DModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.Physics2DModule.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.Physics2DModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.PhysicsModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.PhysicsModule.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.PhysicsModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.ProfilerModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.ProfilerModule.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.ProfilerModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.ScreenCaptureModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.ScreenCaptureModule.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.ScreenCaptureModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.SharedInternalsModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.SharedInternalsModule.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.SharedInternalsModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.SpatialTracking.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.SpatialTracking.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.SpatialTracking.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.SpatialTrackingModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.SpatialTrackingModule.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.SpatialTrackingModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.SpriteMaskModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.SpriteMaskModule.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.SpriteMaskModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.SpriteShapeModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.SpriteShapeModule.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.SpriteShapeModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.StandardEvents.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.StandardEvents.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.StandardEvents.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.StreamingModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.StreamingModule.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.StreamingModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.StyleSheetsModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.StyleSheetsModule.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.StyleSheetsModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.SubstanceModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.SubstanceModule.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.SubstanceModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.TerrainModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.TerrainModule.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.TerrainModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.TextRenderingModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.TextRenderingModule.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.TextRenderingModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.TilemapModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.TilemapModule.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.TilemapModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.Timeline.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.Timeline.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.Timeline.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.TimelineModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.TimelineModule.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.TimelineModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.TLSModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.TLSModule.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.TLSModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.UI.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.UI.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.UI.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.UIElementsModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.UIElementsModule.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.UIElementsModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.UIModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.UIModule.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.UIModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.UmbraModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.UmbraModule.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.UmbraModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.UNETModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.UNETModule.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.UNETModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.UnityConnectModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.UnityConnectModule.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.UnityConnectModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.UnityWebRequestModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.UnityWebRequestModule.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.UnityWebRequestModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.VehiclesModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.VehiclesModule.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.VehiclesModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.VideoModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.VideoModule.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.VideoModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.VRModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.VRModule.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.VRModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.WindModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.WindModule.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.WindModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.XRModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.XRModule.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\UnityEngine.XRModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Managed\Vuforia.UnityExtensions.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Managed\Vuforia.UnityExtensions.dll
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Managed\Vuforia.UnityExtensions.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\Resources\unity_builtin_extra
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\Resources\unity_builtin_extra
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\Resources\unity_builtin_extra
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\sharedassets0.assets
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\sharedassets0.assets
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\sharedassets0.assets
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\assets\bin\Data\unity default resources
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\assets\bin\Data\unity
+      default resources
+    projectPath: Temp\gradleOut\src\main\assets\bin\Data\unity default resources
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\jniLibs\armeabi-v7a\libmain.so
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\jniLibs\armeabi-v7a\libmain.so
+    projectPath: Temp\gradleOut\src\main\jniLibs\armeabi-v7a\libmain.so
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\jniLibs\armeabi-v7a\libmono.so
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\jniLibs\armeabi-v7a\libmono.so
+    projectPath: Temp\gradleOut\src\main\jniLibs\armeabi-v7a\libmono.so
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\jniLibs\armeabi-v7a\libunity.so
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\jniLibs\armeabi-v7a\libunity.so
+    projectPath: Temp\gradleOut\src\main\jniLibs\armeabi-v7a\libunity.so
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\jniLibs\x86\libmain.so
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\jniLibs\x86\libmain.so
+    projectPath: Temp\gradleOut\src\main\jniLibs\x86\libmain.so
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\jniLibs\x86\libmono.so
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\jniLibs\x86\libmono.so
+    projectPath: Temp\gradleOut\src\main\jniLibs\x86\libmono.so
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\jniLibs\x86\libunity.so
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\jniLibs\x86\libunity.so
+    projectPath: Temp\gradleOut\src\main\jniLibs\x86\libunity.so
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\res\drawable-xhdpi\app_banner.png
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\res\drawable-xhdpi\app_banner.png
+    projectPath: Temp\gradleOut\src\main\res\drawable-xhdpi\app_banner.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\res\mipmap-anydpi-v26\app_icon.xml
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\res\mipmap-anydpi-v26\app_icon.xml
+    projectPath: Temp\gradleOut\src\main\res\mipmap-anydpi-v26\app_icon.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\res\mipmap-anydpi-v26\app_icon_round.xml
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\res\mipmap-anydpi-v26\app_icon_round.xml
+    projectPath: Temp\gradleOut\src\main\res\mipmap-anydpi-v26\app_icon_round.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\res\mipmap-mdpi\app_icon.png
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\res\mipmap-mdpi\app_icon.png
+    projectPath: Temp\gradleOut\src\main\res\mipmap-mdpi\app_icon.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\res\mipmap-mdpi\ic_launcher_background.png
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\res\mipmap-mdpi\ic_launcher_background.png
+    projectPath: Temp\gradleOut\src\main\res\mipmap-mdpi\ic_launcher_background.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\res\mipmap-mdpi\ic_launcher_foreground.png
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\res\mipmap-mdpi\ic_launcher_foreground.png
+    projectPath: Temp\gradleOut\src\main\res\mipmap-mdpi\ic_launcher_foreground.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\res\values\strings.xml
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\res\values\strings.xml
+    projectPath: Temp\gradleOut\src\main\res\values\strings.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\res\values\styles.xml
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\res\values\styles.xml
+    projectPath: Temp\gradleOut\src\main\res\values\styles.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\gradleOut\src\main\res\values-v21\styles.xml
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\gradleOut\src\main\res\values-v21\styles.xml
+    projectPath: Temp\gradleOut\src\main\res\values-v21\styles.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\e4d7cdea9e7b674007a994e68f178ef6.bakert
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\ProcessJobs\e4d7cdea9e7b674007a994e68f178ef6.bakert
+    projectPath: Temp\ProcessJobs\e4d7cdea9e7b674007a994e68f178ef6.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\aar\VuforiaWrapper.aar
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\aar\VuforiaWrapper.aar
+    projectPath: Temp\StagingArea\aar\VuforiaWrapper.aar
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\AndroidManifest.xml
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\AndroidManifest.xml
+    projectPath: Temp\StagingArea\AndroidManifest.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\AndroidManifest-main.xml
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\AndroidManifest-main.xml
+    projectPath: Temp\StagingArea\AndroidManifest-main.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\6e6b3e2178258624eb46adcdf10798c7
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\6e6b3e2178258624eb46adcdf10798c7
+    projectPath: Temp\StagingArea\assets\bin\Data\6e6b3e2178258624eb46adcdf10798c7
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\boot.config
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\boot.config
+    projectPath: Temp\StagingArea\assets\bin\Data\boot.config
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\globalgamemanagers
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\globalgamemanagers
+    projectPath: Temp\StagingArea\assets\bin\Data\globalgamemanagers
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\globalgamemanagers.assets
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\globalgamemanagers.assets
+    projectPath: Temp\StagingArea\assets\bin\Data\globalgamemanagers.assets
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\level0
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\level0
+    projectPath: Temp\StagingArea\assets\bin\Data\level0
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\Assembly-CSharp.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\Assembly-CSharp.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\Assembly-CSharp.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\Mono.Security.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\Mono.Security.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\Mono.Security.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\mscorlib.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\mscorlib.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\mscorlib.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\System.Core.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\System.Core.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\System.Core.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\System.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\System.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\System.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\Unity.TextMeshPro.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\Unity.TextMeshPro.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\Unity.TextMeshPro.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.AccessibilityModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.AccessibilityModule.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.AccessibilityModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.AIModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.AIModule.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.AIModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.Analytics.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.Analytics.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.Analytics.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.AnimationModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.AnimationModule.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.AnimationModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.ARModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.ARModule.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.ARModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.AssetBundleModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.AssetBundleModule.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.AssetBundleModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.AudioModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.AudioModule.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.AudioModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.BaselibModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.BaselibModule.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.BaselibModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.ClothModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.ClothModule.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.ClothModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.CloudWebServicesModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.CloudWebServicesModule.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.CloudWebServicesModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.CoreModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.CoreModule.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.CoreModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.CrashReportingModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.CrashReportingModule.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.CrashReportingModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.DirectorModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.DirectorModule.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.DirectorModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.FacebookModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.FacebookModule.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.FacebookModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.FileSystemHttpModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.FileSystemHttpModule.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.FileSystemHttpModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.GameCenterModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.GameCenterModule.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.GameCenterModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.GridModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.GridModule.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.GridModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.HotReloadModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.HotReloadModule.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.HotReloadModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.ImageConversionModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.ImageConversionModule.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.ImageConversionModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.IMGUIModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.IMGUIModule.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.IMGUIModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.InputModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.InputModule.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.InputModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.JSONSerializeModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.JSONSerializeModule.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.JSONSerializeModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.LocalizationModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.LocalizationModule.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.LocalizationModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.Networking.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.Networking.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.Networking.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.ParticlesLegacyModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.ParticlesLegacyModule.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.ParticlesLegacyModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.ParticleSystemModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.ParticleSystemModule.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.ParticleSystemModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.PerformanceReportingModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.PerformanceReportingModule.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.PerformanceReportingModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.Physics2DModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.Physics2DModule.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.Physics2DModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.PhysicsModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.PhysicsModule.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.PhysicsModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.ProfilerModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.ProfilerModule.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.ProfilerModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.ScreenCaptureModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.ScreenCaptureModule.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.ScreenCaptureModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.SharedInternalsModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.SharedInternalsModule.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.SharedInternalsModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.SpatialTracking.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.SpatialTracking.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.SpatialTracking.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.SpatialTrackingModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.SpatialTrackingModule.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.SpatialTrackingModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.SpriteMaskModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.SpriteMaskModule.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.SpriteMaskModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.SpriteShapeModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.SpriteShapeModule.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.SpriteShapeModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.StandardEvents.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.StandardEvents.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.StandardEvents.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.StreamingModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.StreamingModule.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.StreamingModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.StyleSheetsModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.StyleSheetsModule.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.StyleSheetsModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.SubstanceModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.SubstanceModule.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.SubstanceModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.TerrainModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.TerrainModule.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.TerrainModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.TextRenderingModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.TextRenderingModule.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.TextRenderingModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.TilemapModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.TilemapModule.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.TilemapModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.Timeline.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.Timeline.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.Timeline.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.TimelineModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.TimelineModule.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.TimelineModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.TLSModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.TLSModule.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.TLSModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UI.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UI.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UI.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UIElementsModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UIElementsModule.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UIElementsModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UIModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UIModule.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UIModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UmbraModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UmbraModule.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UmbraModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UNETModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UNETModule.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UNETModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UnityConnectModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UnityConnectModule.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UnityConnectModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UnityWebRequestModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UnityWebRequestModule.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UnityWebRequestModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.VehiclesModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.VehiclesModule.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.VehiclesModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.VideoModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.VideoModule.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.VideoModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.VRModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.VRModule.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.VRModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.WindModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.WindModule.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.WindModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.XRModule.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.XRModule.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.XRModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Managed\Vuforia.UnityExtensions.dll
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Managed\Vuforia.UnityExtensions.dll
+    projectPath: Temp\StagingArea\assets\bin\Data\Managed\Vuforia.UnityExtensions.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\Resources\unity_builtin_extra
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\Resources\unity_builtin_extra
+    projectPath: Temp\StagingArea\assets\bin\Data\Resources\unity_builtin_extra
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\sharedassets0.assets
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\sharedassets0.assets
+    projectPath: Temp\StagingArea\assets\bin\Data\sharedassets0.assets
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\assets\bin\Data\unity default resources
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\assets\bin\Data\unity
+      default resources
+    projectPath: Temp\StagingArea\assets\bin\Data\unity default resources
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\libs\armeabi-v7a\libmain.so
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\libs\armeabi-v7a\libmain.so
+    projectPath: Temp\StagingArea\libs\armeabi-v7a\libmain.so
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\libs\armeabi-v7a\libmono.so
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\libs\armeabi-v7a\libmono.so
+    projectPath: Temp\StagingArea\libs\armeabi-v7a\libmono.so
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\libs\armeabi-v7a\libunity.so
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\libs\armeabi-v7a\libunity.so
+    projectPath: Temp\StagingArea\libs\armeabi-v7a\libunity.so
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\libs\x86\libmain.so
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\libs\x86\libmain.so
+    projectPath: Temp\StagingArea\libs\x86\libmain.so
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\libs\x86\libmono.so
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\libs\x86\libmono.so
+    projectPath: Temp\StagingArea\libs\x86\libmono.so
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\libs\x86\libunity.so
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\libs\x86\libunity.so
+    projectPath: Temp\StagingArea\libs\x86\libunity.so
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\res\drawable-xhdpi\app_banner.png
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\res\drawable-xhdpi\app_banner.png
+    projectPath: Temp\StagingArea\res\drawable-xhdpi\app_banner.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\res\mipmap-anydpi-v26\app_icon.xml
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\res\mipmap-anydpi-v26\app_icon.xml
+    projectPath: Temp\StagingArea\res\mipmap-anydpi-v26\app_icon.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\res\mipmap-anydpi-v26\app_icon_round.xml
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\res\mipmap-anydpi-v26\app_icon_round.xml
+    projectPath: Temp\StagingArea\res\mipmap-anydpi-v26\app_icon_round.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\res\mipmap-mdpi\app_icon.png
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\res\mipmap-mdpi\app_icon.png
+    projectPath: Temp\StagingArea\res\mipmap-mdpi\app_icon.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\res\mipmap-mdpi\ic_launcher_background.png
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\res\mipmap-mdpi\ic_launcher_background.png
+    projectPath: Temp\StagingArea\res\mipmap-mdpi\ic_launcher_background.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\res\mipmap-mdpi\ic_launcher_foreground.png
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\res\mipmap-mdpi\ic_launcher_foreground.png
+    projectPath: Temp\StagingArea\res\mipmap-mdpi\ic_launcher_foreground.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\res\values\strings.xml
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\res\values\strings.xml
+    projectPath: Temp\StagingArea\res\values\strings.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\res\values\styles.xml
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\res\values\styles.xml
+    projectPath: Temp\StagingArea\res\values\styles.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\StagingArea\res\values-v21\styles.xml
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\StagingArea\res\values-v21\styles.xml
+    projectPath: Temp\StagingArea\res\values-v21\styles.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityLockfile
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-01415b8a39c270f4ea8f08d457133d5e
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\UnityTempFile-01415b8a39c270f4ea8f08d457133d5e
+    projectPath: Temp\UnityTempFile-01415b8a39c270f4ea8f08d457133d5e
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-0e14aeb9581f35f4992460249332b78a
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\UnityTempFile-0e14aeb9581f35f4992460249332b78a
+    projectPath: Temp\UnityTempFile-0e14aeb9581f35f4992460249332b78a
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-25ae7b8764f2dd6408afde44f464ec7f
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\UnityTempFile-25ae7b8764f2dd6408afde44f464ec7f
+    projectPath: Temp\UnityTempFile-25ae7b8764f2dd6408afde44f464ec7f
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-2943b29b210d2114791ae657988e0678
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\UnityTempFile-2943b29b210d2114791ae657988e0678
+    projectPath: Temp\UnityTempFile-2943b29b210d2114791ae657988e0678
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-4132db5107be7da429e03f665b1fd1e2
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\UnityTempFile-4132db5107be7da429e03f665b1fd1e2
+    projectPath: Temp\UnityTempFile-4132db5107be7da429e03f665b1fd1e2
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-426157f56f554554b978ec2646e3c846
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\UnityTempFile-426157f56f554554b978ec2646e3c846
+    projectPath: Temp\UnityTempFile-426157f56f554554b978ec2646e3c846
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-49e4e2a835a0d804a9525279769e1eec
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\UnityTempFile-49e4e2a835a0d804a9525279769e1eec
+    projectPath: Temp\UnityTempFile-49e4e2a835a0d804a9525279769e1eec
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-5a29122c4e335394095b60bad9c2569b
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\UnityTempFile-5a29122c4e335394095b60bad9c2569b
+    projectPath: Temp\UnityTempFile-5a29122c4e335394095b60bad9c2569b
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-5edc61b71b8cdcc499d695699b6efae3
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\UnityTempFile-5edc61b71b8cdcc499d695699b6efae3
+    projectPath: Temp\UnityTempFile-5edc61b71b8cdcc499d695699b6efae3
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-a23ca1ca831ef5c429542e41779c9348
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\UnityTempFile-a23ca1ca831ef5c429542e41779c9348
+    projectPath: Temp\UnityTempFile-a23ca1ca831ef5c429542e41779c9348
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-a8224011b48964e4aae71a157393d910
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\UnityTempFile-a8224011b48964e4aae71a157393d910
+    projectPath: Temp\UnityTempFile-a8224011b48964e4aae71a157393d910
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-c195550c3ea643149a7e6973987528c5
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\UnityTempFile-c195550c3ea643149a7e6973987528c5
+    projectPath: Temp\UnityTempFile-c195550c3ea643149a7e6973987528c5
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-cd393baa0fce6b44ab9bda5bd87c385b
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\UnityTempFile-cd393baa0fce6b44ab9bda5bd87c385b
+    projectPath: Temp\UnityTempFile-cd393baa0fce6b44ab9bda5bd87c385b
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-f6eb6607cca8c7d4097154d35e7ad1b4
+    fullPath: C:\Users\Vale\Documents\ProjectPrinchecha\Temp\UnityTempFile-f6eb6607cca8c7d4097154d35e7ad1b4
+    projectPath: Temp\UnityTempFile-f6eb6607cca8c7d4097154d35e7ad1b4
+    originalPath: 
+    status: 1
+    staged: 0
